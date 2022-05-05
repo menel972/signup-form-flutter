@@ -1,16 +1,32 @@
-# forms
+# About Sign Up Form Screen
 
-A new Flutter project.
+This is a connection screen, I've made to practice with forms in Flutter apps.
+
+I use TextFormField with <strong>Validators, DatePicker and SnackBar</strong>.
+
+<p>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/DatePicker-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+![Alt text](relative/path/to/img.jpg?raw=true "img/Screenshot_1.png") 
+![Alt text](relative/path/to/img.jpg?raw=true "img/Screenshot_2.png") 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+you need a complete version of flutter installed on your computer and an emulator of ios or android device.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Install
+Clone this repo : https://github.com/menel972/signup-form-flutter.git
+
+run :
+
+$ flutter pub get
+
+$ flutter run

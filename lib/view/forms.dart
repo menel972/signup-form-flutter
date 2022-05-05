@@ -192,7 +192,7 @@ class _FormsState extends State<Forms> {
                         if (value!.isEmpty) {
                           return 'Remplissez ce champs...';
                         } else if (!exp.hasMatch(value)) {
-                          return 'min : 8 Car - 1 Maj - 1 Min - - 1 Num -1 Car Spé...';
+                          return 'min : 8 Car - 1 Maj - 1 Min - 1 Num - 1 Car Spé...';
                         }
                         return null;
                       },
@@ -235,7 +235,7 @@ class _FormsState extends State<Forms> {
                             color: Colors.indigo, fontWeight: FontWeight.bold),
                       ),
                       TextSpan(
-                        text: 'et notre',
+                        text: ' et notre ',
                       ),
                       TextSpan(
                         text: 'Gestion de vos données personelles',
