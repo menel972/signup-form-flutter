@@ -11,8 +11,8 @@ I use TextFormField with <strong>Validators, DatePicker and SnackBar</strong>.
 </p>
 
 <p align="center">
-<img src="img/Screenshot_1.png" height="500" title="hover text">
-<img src="img/Screenshot_2.png" height="500" title="hover text">
+<img src="img/Screenshot_1.png" height="500">
+<img src="img/Screenshot_2.png" height="500">
 </p>
 
 ## Getting Started
